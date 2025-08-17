@@ -1,0 +1,10 @@
+{
+  "prompt": "a beautiful sunset over mountains, highly detailed, 4k, masterpiece",
+  "negative_prompt": "blurry, low quality, artifacts, ugly, distorted",
+  "width": 512,
+  "height": 512,
+  "steps": 20,
+  "guidance_scale": 7.5,
+  "seed": 42,
+  "num_images": 1
+}
